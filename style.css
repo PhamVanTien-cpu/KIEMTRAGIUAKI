@@ -1,0 +1,141 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+.container_navbar{
+    /* border: 1px solid black; */
+    padding: 1% 1%;
+    display: flow-root;
+    background-color: rgb(245, 243, 239);
+}
+
+.logo{
+    width: 5%;
+    /* border: 1px solid black; */
+    float: left;
+    margin-right: 2%;
+    /* background-color: rgb(245, 243, 239); */
+}
+
+.img_responsive {
+    width: 100%;
+    
+}
+
+.title{
+   width: 34%;
+   float: left;
+}
+
+.list{
+    width: 20%;
+    float: right;
+    /* text-align: right; */
+      
+}
+
+.list ul li div{
+    /* list-style-type: none; */
+    display: inline;
+}
+
+.list ul li{
+    list-style-type: none;
+}
+
+
+.link a{
+
+    margin-right: 20px;
+}
+
+.link:hover a{
+    color: brown;
+}
+
+.clear-fix{
+    clear: both;
+}
+
+.padding{
+    padding: 0 0;
+}
+
+.ab{
+    
+    width: 60%;
+    margin: 0 auto;
+}
+
+.navbar-menu {
+    background-color: #0a1f77;
+    text-align: center;
+    padding: 1% 0;
+    color: white;
+   
+}
+/* search */
+.form_search{
+    text-align: center;
+    background-image: url(../images/hinh-nen-powerpoint-xanh-duong-cuc-dep_012324053.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5% ;
+   
+}
+
+.form_search input[type="search"]{
+     width: 50%;
+     padding: .5%;
+     font-size: 1rem;
+     
+}
+
+.form_search input[type="submit"]{
+    padding: .5%;
+    font-size: 1rem;
+}
+
+
+/* css body  */
+.text{
+    /* padding: 0 0 30% 0; */
+    font-size: 13px;
+    line-height: 10px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    /* padding-top: 10px; */
+    color: #666666;
+}
+.im{
+    overflow: hidden;
+    width: 100%;
+    height: 12vw;
+    margin-bottom: 0px;
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.margin1{
+    margin: 5% 0%;
+}
+.padding1{
+    padding: 2% 2% 2% 2%;
+}
+.padding{
+    padding: 0% 0%;
+}
+.margin{
+    margin: 2% 2% 5% 5%;
+
+}
+.boder{
+    border: 2px solid rgb(245, 241, 241);
+    border-radius: 2%;
+}
+
+.boder:hover{
+    border-color: #FA9D1C;
+}
+
